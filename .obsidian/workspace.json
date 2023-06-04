@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d17c52e7ee63900f",
+        "id": "066ef63cb93d3734",
         "type": "tabs",
         "children": [
           {
-            "id": "3912152718d72668",
+            "id": "f91cae64bcc5e3cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "подготовка к выходу на стажировку.canvas",
-                "viewState": {
-                  "x": 445,
-                  "y": 644,
-                  "zoom": -2.1345406753310785
-                }
+                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "подготовка к выходу на стажировку.canvas",
+                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "подготовка к выходу на стажировку.canvas",
+                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "подготовка к выходу на стажировку.canvas"
+                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md"
               }
             }
           }
@@ -149,22 +146,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3912152718d72668",
+  "active": "f91cae64bcc5e3cc",
   "lastOpenFiles": [
+    "joplin/_resources/be7a14355f2b5fdb2bec4b8fb06fe25b.png",
+    "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
+    "joplin/route256/лекция 4-1_ Основные концепции System Design.md",
+    "joplin/route256/лекция 4-2_ проектирование программ и распределенн.md",
+    "финал в ydb.md",
+    "notes/источники по гиту.md",
     "https.md",
+    "источники по гиту.md",
+    "подготовка к выходу на стажировку.canvas",
     "Без названия.canvas",
     "физика 5в.md",
     "физика 22б.md",
     "слайсы в Go.md",
-    "источники по гиту.md",
-    "подготовка к выходу на стажировку.canvas",
-    "notes/источники по гиту.md",
     "notes",
-    "финал в ydb.md",
     "joplin/route256/лекция 3-1_ PostgreSQL в Go.md",
-    "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
-    "joplin/route256/лекция 4-1_ Основные концепции System Design.md",
-    "joplin/route256/лекция 4-2_ проектирование программ и распределенн.md",
     "joplin/_resources/1f5ed7674e501f6a494b2f843581b3f2.png",
     "joplin/_resources/1ee4bff9f41b131a603bf92ba6d226da.png",
     "joplin/_resources/1e7f2ae99d26a90f36eafd0544b1892f.png",
@@ -197,7 +195,6 @@
     "joplin/_resources/0889051b6df58c1d54e12ee2cdf72031.png",
     "joplin/_resources/417506aca2fac8cdf82e35b1137c4f60.png",
     "joplin/_resources/1d827eb17fc0bbf641d695b4755d6436.png",
-    "joplin/_resources/3025472f99ca201397cef68b831022e7.png",
     "joplin/_resources",
     "joplin",
     "_attachments",
