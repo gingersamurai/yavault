@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82087d502d1b2a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-06-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8a6fa77233b4e9b0",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
