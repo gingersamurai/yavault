@@ -11,12 +11,8 @@
             "id": "8a6fa77233b4e9b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pc note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pc note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pc note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pc note.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,56 @@
   },
   "active": "8a6fa77233b4e9b0",
   "lastOpenFiles": [
-    "2023-06-04.md",
-    "pc note.md",
+    "notes/patterns/visitor.md",
+    "notes/patterns/template method.md",
+    "notes/patterns/strategy.md",
+    "notes/patterns/state.md",
+    "notes/patterns/singleton.md",
+    "notes/patterns/proxy.md",
+    "notes/patterns/prototype.md",
+    "notes/patterns/observer.md",
+    "notes/patterns/memento.md",
+    "notes/patterns/mediator.md",
+    "notes/patterns/map в Go.md",
+    "notes/patterns/iterator.md",
+    "notes/patterns/flyweight.md",
+    "notes/patterns/factory method.md",
+    "notes/patterns/facade.md",
+    "notes/patterns/decorator.md",
+    "notes/patterns/composite.md",
+    "notes/patterns/command.md",
+    "notes/patterns/chain of responsibility.md",
+    "notes/patterns/builder.md",
+    "notes/patterns/bridge.md",
+    "notes/patterns/adapter.md",
+    "notes/patterns/abstract factory.md",
+    "notes/arch/clean arch.md",
+    "notes/arch/MVP.md",
+    "notes/arch/MVC.md",
+    "notes/подготовка к выходу на стажировку.canvas",
+    "notes/patterns",
+    "notes/brainstorm к собесам.canvas",
+    "notes/arch",
+    "notes/SOLID",
+    "notes",
+    "joplin/route256",
+    "joplin/_resources/5f03c5660511211ef393d3c340a4e59d.png",
+    "joplin/_resources/0889051b6df58c1d54e12ee2cdf72031.png",
+    "joplin/_resources/417506aca2fac8cdf82e35b1137c4f60.png",
+    "joplin/_resources/01cae291c3b47eda8af9b810f75ea766.png",
+    "joplin/_resources/1d827eb17fc0bbf641d695b4755d6436.png",
+    "joplin/_resources/3025472f99ca201397cef68b831022e7.png",
+    "joplin/_resources/544e5008162d492bd99474955ad4ee5b.png",
+    "joplin/_resources/478ccf3df6f7e2bd6f7ec453e3517d5a.png",
+    "joplin/_resources/674de9956d036ca004609193cf6648e1.png",
+    "joplin/_resources/bfe5a35616e8650e29ebc16726f49df8.png",
+    "joplin/_resources",
+    "joplin",
+    "_attachments",
+    "подготовка к выходу на стажировку.canvas",
+    "brainstorm к собесам.canvas",
+    "arch",
+    "SOLID",
     "Без названия.canvas"
   ]
 }
