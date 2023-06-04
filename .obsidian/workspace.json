@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "87f7a7c889f329c6",
+        "id": "d17c52e7ee63900f",
         "type": "tabs",
         "children": [
           {
-            "id": "8a6fa77233b4e9b0",
+            "id": "3912152718d72668",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "подготовка к выходу на стажировку.canvas",
+                "viewState": {
+                  "x": 445,
+                  "y": 644,
+                  "zoom": -2.1345406753310785
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "подготовка к выходу на стажировку.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "подготовка к выходу на стажировку.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "подготовка к выходу на стажировку.canvas"
+              }
             }
           }
         ]
@@ -138,58 +149,59 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8a6fa77233b4e9b0",
+  "active": "3912152718d72668",
   "lastOpenFiles": [
-    "notes/patterns/visitor.md",
-    "notes/patterns/template method.md",
-    "notes/patterns/strategy.md",
-    "notes/patterns/state.md",
-    "notes/patterns/singleton.md",
-    "notes/patterns/proxy.md",
-    "notes/patterns/prototype.md",
-    "notes/patterns/observer.md",
-    "notes/patterns/memento.md",
-    "notes/patterns/mediator.md",
-    "notes/patterns/map в Go.md",
-    "notes/patterns/iterator.md",
-    "notes/patterns/flyweight.md",
-    "notes/patterns/factory method.md",
-    "notes/patterns/facade.md",
-    "notes/patterns/decorator.md",
-    "notes/patterns/composite.md",
-    "notes/patterns/command.md",
-    "notes/patterns/chain of responsibility.md",
-    "notes/patterns/builder.md",
-    "notes/patterns/bridge.md",
-    "notes/patterns/adapter.md",
-    "notes/patterns/abstract factory.md",
-    "notes/arch/clean arch.md",
-    "notes/arch/MVP.md",
-    "notes/arch/MVC.md",
-    "notes/подготовка к выходу на стажировку.canvas",
-    "notes/patterns",
-    "notes/brainstorm к собесам.canvas",
-    "notes/arch",
-    "notes/SOLID",
+    "https.md",
+    "Без названия.canvas",
+    "физика 5в.md",
+    "физика 22б.md",
+    "слайсы в Go.md",
+    "источники по гиту.md",
+    "подготовка к выходу на стажировку.canvas",
+    "notes/источники по гиту.md",
     "notes",
+    "финал в ydb.md",
+    "joplin/route256/лекция 3-1_ PostgreSQL в Go.md",
+    "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
+    "joplin/route256/лекция 4-1_ Основные концепции System Design.md",
+    "joplin/route256/лекция 4-2_ проектирование программ и распределенн.md",
+    "joplin/_resources/1f5ed7674e501f6a494b2f843581b3f2.png",
+    "joplin/_resources/1ee4bff9f41b131a603bf92ba6d226da.png",
+    "joplin/_resources/1e7f2ae99d26a90f36eafd0544b1892f.png",
+    "joplin/_resources/01d9d51d9298f32787c4dc75a98c0f2b.png",
+    "joplin/_resources/01cae291c3b47eda8af9b810f75ea766.png",
+    "joplin/route256/Без имени.md",
+    "arch/MVP.md",
+    "arch/MVC.md",
+    "arch/clean arch.md",
+    "patterns/strategy.md",
+    "joplin/route256/лекция 2-2_ конкурентные паттерны в Go.md",
+    "patterns/adapter.md",
+    "patterns/abstract factory.md",
+    "SOLID/Dependency injection principle.md",
+    "SOLID/Interface segregation principle.md",
+    "SOLID/Liskov substutition principle.md",
+    "SOLID/Open closed principle.md",
+    "SOLID/Single responsibility principle.md",
+    "brainstorm к собесам.canvas",
+    "notes/финал в ydb (copy).md",
+    "notes/подготовка к выходу на стажировку (copy).canvas",
+    "notes/brainstorm к собесам (copy).canvas",
+    "notes/подготовка к выходу на стажировку.canvas",
+    "patterns",
+    "notes/brainstorm к собесам.canvas",
+    "arch",
+    "SOLID",
     "joplin/route256",
     "joplin/_resources/5f03c5660511211ef393d3c340a4e59d.png",
     "joplin/_resources/0889051b6df58c1d54e12ee2cdf72031.png",
     "joplin/_resources/417506aca2fac8cdf82e35b1137c4f60.png",
-    "joplin/_resources/01cae291c3b47eda8af9b810f75ea766.png",
     "joplin/_resources/1d827eb17fc0bbf641d695b4755d6436.png",
     "joplin/_resources/3025472f99ca201397cef68b831022e7.png",
-    "joplin/_resources/544e5008162d492bd99474955ad4ee5b.png",
-    "joplin/_resources/478ccf3df6f7e2bd6f7ec453e3517d5a.png",
-    "joplin/_resources/674de9956d036ca004609193cf6648e1.png",
-    "joplin/_resources/bfe5a35616e8650e29ebc16726f49df8.png",
     "joplin/_resources",
     "joplin",
     "_attachments",
-    "подготовка к выходу на стажировку.canvas",
-    "brainstorm к собесам.canvas",
     "arch",
-    "SOLID",
-    "Без названия.canvas"
+    "SOLID"
   ]
 }
