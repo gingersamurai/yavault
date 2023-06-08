@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "git/cherry-pick.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 571.5
   },
   "right": {
     "id": "c11b5a1b4e0c4fd2",
@@ -148,17 +148,20 @@
   },
   "active": "f91cae64bcc5e3cc",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20230608143355.png",
+    "git/cherry-pick.md",
+    "brainstorm к собесам.canvas",
+    "notes/источники по гиту.md",
+    "Pasted image 20230608143149.png.md",
     "Pasted image 20230608143149.png",
     "Pasted image 20230608143049.png",
     "подготовка к выходу на стажировку.canvas",
-    "git/cherry-pick.md",
     "git",
     "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
     "joplin/_resources/be7a14355f2b5fdb2bec4b8fb06fe25b.png",
     "joplin/route256/лекция 4-1_ Основные концепции System Design.md",
     "joplin/route256/лекция 4-2_ проектирование программ и распределенн.md",
     "финал в ydb.md",
-    "notes/источники по гиту.md",
     "https.md",
     "источники по гиту.md",
     "Без названия.canvas",
@@ -184,8 +187,6 @@
     "SOLID/Interface segregation principle.md",
     "SOLID/Liskov substutition principle.md",
     "SOLID/Open closed principle.md",
-    "SOLID/Single responsibility principle.md",
-    "brainstorm к собесам.canvas",
     "notes/подготовка к выходу на стажировку (copy).canvas",
     "notes/brainstorm к собесам (copy).canvas",
     "notes/подготовка к выходу на стажировку.canvas",
@@ -195,8 +196,6 @@
     "SOLID",
     "joplin/route256",
     "joplin/_resources/5f03c5660511211ef393d3c340a4e59d.png",
-    "joplin/_resources/0889051b6df58c1d54e12ee2cdf72031.png",
-    "joplin/_resources/417506aca2fac8cdf82e35b1137c4f60.png",
     "joplin/_resources",
     "joplin",
     "_attachments",

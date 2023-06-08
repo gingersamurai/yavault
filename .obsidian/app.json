@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "livePreview": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "_attachments"
 }
