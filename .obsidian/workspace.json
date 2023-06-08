@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
-                "mode": "preview",
+                "file": "git/cherry-pick.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
+                "file": "git/cherry-pick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
+                "file": "git/cherry-pick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md"
+                "file": "git/cherry-pick.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "f91cae64bcc5e3cc",
   "lastOpenFiles": [
-    "joplin/_resources/be7a14355f2b5fdb2bec4b8fb06fe25b.png",
+    "подготовка к выходу на стажировку.canvas",
+    "git/cherry-pick.md",
+    "git",
     "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
+    "joplin/_resources/be7a14355f2b5fdb2bec4b8fb06fe25b.png",
     "joplin/route256/лекция 4-1_ Основные концепции System Design.md",
     "joplin/route256/лекция 4-2_ проектирование программ и распределенн.md",
     "финал в ydb.md",
     "notes/источники по гиту.md",
     "https.md",
     "источники по гиту.md",
-    "подготовка к выходу на стажировку.canvas",
     "Без названия.canvas",
     "физика 5в.md",
     "физика 22б.md",
@@ -182,7 +184,6 @@
     "SOLID/Open closed principle.md",
     "SOLID/Single responsibility principle.md",
     "brainstorm к собесам.canvas",
-    "notes/финал в ydb (copy).md",
     "notes/подготовка к выходу на стажировку (copy).canvas",
     "notes/brainstorm к собесам (copy).canvas",
     "notes/подготовка к выходу на стажировку.canvas",
@@ -198,7 +199,6 @@
     "joplin/_resources",
     "joplin",
     "_attachments",
-    "arch",
-    "SOLID"
+    "arch"
   ]
 }
