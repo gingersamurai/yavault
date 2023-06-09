@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "066ef63cb93d3734",
+        "id": "56ad4a055ae09ad3",
         "type": "tabs",
         "children": [
           {
-            "id": "f91cae64bcc5e3cc",
+            "id": "8c60f99af7161f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/cherry-pick.md",
+                "file": "git/pull.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 309.5
   },
   "right": {
     "id": "c11b5a1b4e0c4fd2",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/cherry-pick.md",
+                "file": "git/pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/cherry-pick.md",
+                "file": "git/pull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/cherry-pick.md"
+                "file": "git/pull.md"
               }
             }
           }
@@ -143,22 +143,39 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f91cae64bcc5e3cc",
+  "active": "8c60f99af7161f2f",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20230608143355.png",
+    "_attachments/Pasted image 20230609154746.png",
+    "_attachments/Pasted image 20230609154707.png",
+    "_attachments/Pasted image 20230609154621.png",
+    "_attachments/Pasted image 20230609154537.png",
+    "git/push.md",
+    "_attachments/Pasted image 20230609153905.png",
+    "_attachments/Pasted image 20230609153809.png",
+    "git/pull.md",
+    "_attachments/Pasted image 20230609152939.png",
+    "_attachments/Pasted image 20230609152840.png",
+    "_attachments/Pasted image 20230609152736.png",
+    "_attachments/Pasted image 20230609152659.png",
+    "git/fetch.md",
+    "подготовка к выходу на стажировку.canvas",
+    "_attachments/Pasted image 20230609152249.png",
+    "git/clone.md",
     "git/cherry-pick.md",
     "brainstorm к собесам.canvas",
+    "git/describe.md",
+    "Excalidraw/Drawing 2023-06-09 14.38.01.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-09 14.36.17.excalidraw.md",
+    "Excalidraw",
+    "git/rebase.md",
     "notes/источники по гиту.md",
     "Pasted image 20230608143149.png.md",
-    "Pasted image 20230608143149.png",
-    "Pasted image 20230608143049.png",
-    "подготовка к выходу на стажировку.canvas",
     "git",
     "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
-    "joplin/_resources/be7a14355f2b5fdb2bec4b8fb06fe25b.png",
     "joplin/route256/лекция 4-1_ Основные концепции System Design.md",
     "joplin/route256/лекция 4-2_ проектирование программ и распределенн.md",
     "финал в ydb.md",
@@ -170,23 +187,10 @@
     "слайсы в Go.md",
     "notes",
     "joplin/route256/лекция 3-1_ PostgreSQL в Go.md",
-    "joplin/_resources/1f5ed7674e501f6a494b2f843581b3f2.png",
-    "joplin/_resources/1ee4bff9f41b131a603bf92ba6d226da.png",
-    "joplin/_resources/1e7f2ae99d26a90f36eafd0544b1892f.png",
-    "joplin/_resources/01d9d51d9298f32787c4dc75a98c0f2b.png",
-    "joplin/_resources/01cae291c3b47eda8af9b810f75ea766.png",
     "joplin/route256/Без имени.md",
     "arch/MVP.md",
     "arch/MVC.md",
     "arch/clean arch.md",
-    "patterns/strategy.md",
-    "joplin/route256/лекция 2-2_ конкурентные паттерны в Go.md",
-    "patterns/adapter.md",
-    "patterns/abstract factory.md",
-    "SOLID/Dependency injection principle.md",
-    "SOLID/Interface segregation principle.md",
-    "SOLID/Liskov substutition principle.md",
-    "SOLID/Open closed principle.md",
     "notes/подготовка к выходу на стажировку (copy).canvas",
     "notes/brainstorm к собесам (copy).canvas",
     "notes/подготовка к выходу на стажировку.canvas",
@@ -195,10 +199,8 @@
     "arch",
     "SOLID",
     "joplin/route256",
-    "joplin/_resources/5f03c5660511211ef393d3c340a4e59d.png",
     "joplin/_resources",
     "joplin",
-    "_attachments",
-    "arch"
+    "_attachments"
   ]
 }
