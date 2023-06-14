@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/0 - введение.md",
+                "file": "kubernetes/1 - Создание кластера.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/0 - введение.md",
+                "file": "kubernetes/1 - Создание кластера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/0 - введение.md",
+                "file": "kubernetes/1 - Создание кластера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/0 - введение.md"
+                "file": "kubernetes/1 - Создание кластера.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "8c60f99af7161f2f",
   "lastOpenFiles": [
-    "git/pull.md",
+    "_attachments/Pasted image 20230614193549.png",
+    "_attachments/Pasted image 20230614193341.png",
+    "_attachments/Pasted image 20230614193214.png",
     "kubernetes/0 - введение.md",
+    "kubernetes/1 - Создание кластера.md",
+    "git/pull.md",
     "kubernetes",
     "_attachments/Pasted image 20230609154746.png",
     "_attachments/Pasted image 20230609154707.png",
@@ -173,8 +177,6 @@
     "_attachments/Pasted image 20230609153809.png",
     "_attachments/Pasted image 20230609152939.png",
     "_attachments/Pasted image 20230609152840.png",
-    "_attachments/Pasted image 20230609152736.png",
-    "_attachments/Pasted image 20230609152659.png",
     "git/fetch.md",
     "подготовка к выходу на стажировку.canvas",
     "git/clone.md",
@@ -202,8 +204,6 @@
     "joplin/route256/лекция 3-1_ PostgreSQL в Go.md",
     "joplin/route256/Без имени.md",
     "arch/MVP.md",
-    "arch/MVC.md",
-    "arch/clean arch.md",
     "notes/подготовка к выходу на стажировку (copy).canvas",
     "notes/brainstorm к собесам (copy).canvas",
     "notes/подготовка к выходу на стажировку.canvas",
