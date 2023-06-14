@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/2 - развертывание приложения.md",
+                "file": "kubernetes/3 - просмотр подов и узлов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/2 - развертывание приложения.md",
+                "file": "kubernetes/3 - просмотр подов и узлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/2 - развертывание приложения.md",
+                "file": "kubernetes/3 - просмотр подов и узлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/2 - развертывание приложения.md"
+                "file": "kubernetes/3 - просмотр подов и узлов.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "e24d4facd930d2e6",
   "lastOpenFiles": [
+    "kubernetes/2 - развертывание приложения.md",
+    "kubernetes/3 - просмотр подов и узлов.md",
+    "модуле 2.md",
+    "kubernetes/пример вывода.md",
     "_attachments/Pasted image 20230614202138.png",
     "kubernetes/1 - Создание кластера.md",
-    "kubernetes/2 - развертывание приложения.md",
     "kubernetes/0 - введение.md",
     "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
     "joplin/route256/лекция 2-2_ конкурентные паттерны в Go.md",
@@ -172,7 +175,6 @@
     "git/push.md",
     "_attachments/Pasted image 20230609153905.png",
     "_attachments/Pasted image 20230609153809.png",
-    "_attachments/Pasted image 20230609152939.png",
     "git/fetch.md",
     "git/clone.md",
     "git/cherry-pick.md",
@@ -189,8 +191,6 @@
     "https.md",
     "источники по гиту.md",
     "Без названия.canvas",
-    "физика 5в.md",
-    "физика 22б.md",
     "notes",
     "notes/подготовка к выходу на стажировку (copy).canvas",
     "notes/brainstorm к собесам (copy).canvas",
