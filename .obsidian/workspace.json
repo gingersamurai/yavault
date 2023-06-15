@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
+                "file": "kubernetes/3 - просмотр подов и узлов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "455ee389183e4e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kubernetes/0 - введение.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
+                "file": "kubernetes/0 - введение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
+                "file": "kubernetes/0 - введение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md"
+                "file": "kubernetes/0 - введение.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e24d4facd930d2e6",
+  "active": "455ee389183e4e48",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20230615124736.png",
+    "helm.md",
     "kubernetes/3 - просмотр подов и узлов.md",
     "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
+    "_attachments/Pasted image 20230615124736.png",
     "kubernetes/2 - развертывание приложения.md",
     "kubernetes/1 - Создание кластера.md",
     "kubernetes/0 - введение.md",
@@ -175,7 +189,6 @@
     "kubernetes",
     "_attachments/Pasted image 20230609154746.png",
     "_attachments/Pasted image 20230609154707.png",
-    "_attachments/Pasted image 20230609154621.png",
     "git/push.md",
     "git/fetch.md",
     "git/clone.md",
