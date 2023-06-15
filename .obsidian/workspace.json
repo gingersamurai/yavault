@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/3 - просмотр подов и узлов.md",
+                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/3 - просмотр подов и узлов.md",
+                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/3 - просмотр подов и узлов.md",
+                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/3 - просмотр подов и узлов.md"
+                "file": "kubernetes/4 - использование Сервиса для раскрытия приложения.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "e24d4facd930d2e6",
   "lastOpenFiles": [
-    "kubernetes/2 - развертывание приложения.md",
+    "_attachments/Pasted image 20230615124736.png",
     "kubernetes/3 - просмотр подов и узлов.md",
-    "_attachments/Pasted image 20230614213252.png",
+    "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
+    "kubernetes/2 - развертывание приложения.md",
     "kubernetes/1 - Создание кластера.md",
     "kubernetes/0 - введение.md",
+    "_attachments/Pasted image 20230614213252.png",
     "_attachments/Pasted image 20230614211946.png",
     "_attachments/Pasted image 20230614211821.png",
     "модуле 2.md",
@@ -188,7 +190,6 @@
     "Pasted image 20230608143149.png.md",
     "git",
     "финал в ydb.md",
-    "https.md",
     "Без названия.canvas",
     "notes",
     "notes/подготовка к выходу на стажировку (copy).canvas",
