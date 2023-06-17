@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3476ca270282f44",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "brainstorm к собесам.canvas",
+                "viewState": {
+                  "x": 12872.717697173817,
+                  "y": 608.4105311124679,
+                  "zoom": -1.0577319402496017
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/0 - введение.md",
+                "file": "kubernetes/3 - просмотр подов и узлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/0 - введение.md",
+                "file": "kubernetes/3 - просмотр подов и узлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/0 - введение.md"
+                "file": "kubernetes/3 - просмотр подов и узлов.md"
               }
             }
           }
@@ -160,28 +175,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "455ee389183e4e48",
+  "active": "b35b6e2673804f03",
   "lastOpenFiles": [
+    "opentracing",
+    "jaeger.md",
+    "brainstorm к собесам.canvas",
+    "opentelemerty.md",
+    "https.md",
     "helm.md",
+    "git/rebase.md",
+    "git/push.md",
+    "подготовка к выходу на стажировку.canvas",
+    "patterns/abstract factory.md",
+    "joplin/route256/лекция 3-2_ Анатомия PostgreSQL.md",
+    "joplin/route256/лекция 3-1_ PostgreSQL в Go.md",
+    "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
     "kubernetes/3 - просмотр подов и узлов.md",
-    "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
-    "_attachments/Pasted image 20230615124736.png",
     "kubernetes/2 - развертывание приложения.md",
     "kubernetes/1 - Создание кластера.md",
     "kubernetes/0 - введение.md",
+    "kubernetes/пример вывода.md",
+    "kubernetes/5 - расширение kubernetes.md",
+    "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
+    "_attachments/Pasted image 20230615124736.png",
     "_attachments/Pasted image 20230614213252.png",
     "_attachments/Pasted image 20230614211946.png",
     "_attachments/Pasted image 20230614211821.png",
     "модуле 2.md",
-    "kubernetes/пример вывода.md",
     "_attachments/Pasted image 20230614202138.png",
-    "joplin/route256/лекция 2-1_ конкурентность и параллелизм.md",
     "joplin/route256/лекция 2-2_ конкурентные паттерны в Go.md",
     "joplin/route256/лекция 4-2_ проектирование программ и распределенн.md",
     "joplin/route256/лекция 4-1_ Основные концепции System Design.md",
-    "joplin/route256/лекция 3-2_ Анатомия PostgreSQL.md",
-    "joplin/route256/лекция 3-1_ PostgreSQL в Go.md",
-    "подготовка к выходу на стажировку.canvas",
     "_attachments/Pasted image 20230614193549.png",
     "_attachments/Pasted image 20230614193341.png",
     "_attachments/Pasted image 20230614193214.png",
@@ -189,20 +213,11 @@
     "kubernetes",
     "_attachments/Pasted image 20230609154746.png",
     "_attachments/Pasted image 20230609154707.png",
-    "git/push.md",
     "git/fetch.md",
     "git/clone.md",
     "git/cherry-pick.md",
-    "brainstorm к собесам.canvas",
-    "git/describe.md",
-    "Excalidraw/Drawing 2023-06-09 14.38.01.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-09 14.36.17.excalidraw.md",
     "Excalidraw",
-    "git/rebase.md",
-    "notes/источники по гиту.md",
-    "Pasted image 20230608143149.png.md",
     "git",
-    "финал в ydb.md",
     "Без названия.canvas",
     "notes",
     "notes/подготовка к выходу на стажировку (copy).canvas",
