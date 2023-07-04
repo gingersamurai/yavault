@@ -13,36 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/3 - просмотр подов и узлов.md",
+                "file": "синки/5 синк 04-07-2023 16-00.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "455ee389183e4e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "синки/27-06-2023 16-00.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11e8928bf6f14bd8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "opentracing/Untitled.canvas",
-                "viewState": {
-                  "x": 123.16879367048014,
-                  "y": 1650.0658739015444,
-                  "zoom": -0.5816535288208462
-                }
               }
             }
           },
@@ -58,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "c11b5a1b4e0c4fd2",
@@ -125,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opentracing/Untitled.canvas",
+                "file": "синки/5 синк 04-07-2023 16-00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opentracing/Untitled.canvas",
+                "file": "синки/5 синк 04-07-2023 16-00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opentracing/Untitled.canvas"
+                "file": "синки/5 синк 04-07-2023 16-00.md"
               }
             }
           }
@@ -188,15 +161,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11e8928bf6f14bd8",
+  "active": "b35b6e2673804f03",
   "lastOpenFiles": [
-    "стек вызовов.canvas",
-    "синки/29-06-2023 14-00.md",
-    "синки/27-06-2023 16-00.md",
-    "opentracing/Untitled.canvas",
-    "синки/22-06-2023 14 00.md",
-    "Excalidraw/Drawing 2023-06-29 12.38.51.excalidraw.md",
     "kubernetes/3 - просмотр подов и узлов.md",
+    "синки/4 синк 29-06-2023 14-00.md",
+    "синки/5 синк 04-07-2023 16-00.md",
+    "синки/3 синк 27-06-2023 16-00.md",
+    "синки/2 синк 22-06-2023 14 00.md",
+    "синки/1 синк 20-06-2023 16-00.md",
+    "opentracing/Untitled.canvas",
+    "brainstorm к собесам.canvas",
+    "стек вызовов.canvas",
+    "Excalidraw/Drawing 2023-06-29 12.38.51.excalidraw.md",
     "opentracing/5 - inject extract.md",
     "opentracing/4 - Трейсеры.md",
     "opentracing/3 - Теги, логи и baggage.md",
@@ -205,13 +181,11 @@
     "opentracing/0 - обзор.md",
     "ydb/тест егеря.md",
     "ydb",
-    "синки/20-06-2023 16-00.md",
     "want.md",
     "синки",
     "have.md",
     "git/cherry-pick.md",
     "подготовка к выходу на стажировку.canvas",
-    "brainstorm к собесам.canvas",
     "kubernetes/2 - развертывание приложения.md",
     "kubernetes/4 - использование Сервиса для раскрытия приложения.md",
     "kubernetes/1 - Создание кластера.md",
@@ -225,7 +199,6 @@
     "opentelemerty.md",
     "https.md",
     "helm.md",
-    "git/rebase.md",
     "_attachments/Pasted image 20230615124736.png",
     "_attachments/Pasted image 20230614213252.png",
     "_attachments/Pasted image 20230614211946.png",
