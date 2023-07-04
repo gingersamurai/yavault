@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"ba79649696ee101a","x":-640,"y":-320,"width":965,"height":1080,"type":"group","label":"demo app"},
+		{"type":"group","id":"7feff6698663166b","x":-405,"y":480,"width":710,"height":260,"label":"docker bridge"},
+		{"type":"group","id":"010e6276966a844c","x":-220,"y":-300,"width":330,"height":140,"label":"cloud"},
+		{"type":"group","id":"f1cfb0b1a7b89304","x":-210,"y":80,"width":320,"height":120,"label":"host"},
+		{"type":"text","text":"YDB","id":"309f681dd338ea15","x":-180,"y":-260,"width":250,"height":60},
+		{"type":"text","text":"opentracing-demo-app","id":"54ac82a9c187e116","x":-180,"y":100,"width":250,"height":60},
+		{"type":"text","text":"jaeger-agent","id":"f1f749db95046c5a","x":-620,"y":160,"width":250,"height":60},
+		{"type":"text","text":"jaeger-collector","id":"f3df4d2d21946d74","x":-340,"y":600,"width":250,"height":60},
+		{"type":"text","text":"jaeger-query","id":"40f16fee18b2b31a","x":20,"y":600,"width":250,"height":60},
+		{"id":"92b8e3693a5ddac9","x":-171,"y":1354,"width":250,"height":60,"type":"text","text":"app"},
+		{"id":"0d123f5d3de72acf","x":-296,"y":1680,"width":250,"height":60,"type":"text","text":"jaeger-agent"},
+		{"id":"2cc046333951c204","x":40,"y":1680,"width":250,"height":60,"type":"text","text":"jaeger-collector"},
+		{"id":"0776d59dfec68d91","x":360,"y":1680,"width":250,"height":60,"type":"text","text":"jaeger-query"}
+	],
+	"edges":[
+		{"id":"08c3cd5a8cacaa27","fromNode":"309f681dd338ea15","fromSide":"bottom","toNode":"54ac82a9c187e116","toSide":"top"},
+		{"id":"0ed7ee52c86e40ea","fromNode":"40f16fee18b2b31a","fromSide":"top","toNode":"f1cfb0b1a7b89304","toSide":"right","fromEnd":"arrow","label":"16686:16686"},
+		{"id":"9ef99509264cf61a","fromNode":"54ac82a9c187e116","fromSide":"bottom","toNode":"f3df4d2d21946d74","toSide":"top","label":"14250:14250"}
+	]
+}
